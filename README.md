@@ -7,10 +7,12 @@
 
 # Steps:
 
-1) Launcher server.cmd
+1) Extract Goldberg HITMAN files into your HITMAN "Retail" folder
 
-2) Launch Peacock Patcher (as administrator)
+2) Launcher server.cmd
 
-3) Launch HITMAN
+3) Launch Peacock Patcher (as administrator)
 
-4) Play game
+4) Launch HITMAN
+
+5) Play game
