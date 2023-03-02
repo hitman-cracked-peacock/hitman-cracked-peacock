@@ -1,16 +1,16 @@
-### Hi there 👋
+# Prerequisites:
 
-<!--
-**hitman-cracked-peacock/hitman-cracked-peacock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	1) HITMAN 3 - World of Assassinations (Any cracked version should work as far as I am aware but opting for the steam version is preferred)
+	2) Peacock Server Files
+	3) HITMAN 3 Goldberg cracked files
+	
 
-Here are some ideas to get you started:
+# Steps:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1) Launcher server.cmd
+
+2) Launch Peacock Patcher (as administrator)
+
+3) Launch HITMAN
+
+4) Play game
